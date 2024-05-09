@@ -477,7 +477,7 @@ select>option:focus{
         justify-content: center;
     }
     #block_questions{
-        /*background-color: rgba(216, 136, 136, 0.2);*/
+        background-color: rgba(142, 181, 173, 0.205);
         width: 90%;
         padding: 1%;
         border: rgba(142, 181, 173, 1) solid 1px;
