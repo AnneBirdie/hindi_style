@@ -469,7 +469,7 @@ select>option:focus{
 
     /*block 4.......................................................................................................................*/
     .block_4{
-        background-image: url(/images/block_4_bg.png);
+        background-image: url(../images/block_4_bg.png);
         background-repeat: no-repeat;
         block-size: 100%;
         background-position: center;
