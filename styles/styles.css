@@ -242,7 +242,7 @@ a{
 
   /*block 3.......................................................................................................................*/
   .block_3{
-    background-image: url(/images/block_3_bg.png);
+    background-image: url(../images/block_3_bg.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
